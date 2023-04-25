@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "term"]
     image = "optipoint.png"
     links = [
         { instagram = "https://www.instagram.com/opti.point/" },
-        { 500px = { href = "https://500px.com/p/optipoint?view=photos", text = "500px", icon = "500px" } },
+        { 500px = { href = "https://500px.com/p/optipoint?view=photos", text = "500px" } },
 
 
     ]

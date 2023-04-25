@@ -1,0 +1,17 @@
+baseURL = 'https://optipoint.photography/'
+languageCode = 'en-us'
+title = 'opti.point Photography'
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+    name = "opti.point Photography"
+    headline = "Hobby Photographer 📸 from Werne, Germany 🇩🇪"
+    image = "optipoint.png"
+    links = [
+        { instagram = "https://www.instagram.com/opti.point/" },
+        { 500px = { href = "https://500px.com/p/optipoint?view=photos", text = "500px", icon = "500px" } },
+
+
+    ]
